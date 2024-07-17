@@ -4,7 +4,7 @@
 **abdojulari/abdojulari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Abdul Ojulari, a seasoned full-stack developer with 10 years of cognitive experience in Web Application Development. I hold a master's degree in Computer Science and have diverse experience in roles such as data analyst and devOps engineer. My expertise includes PHP and its prominent frameworks like Symfony and Laravel. I'm also proficient in JavaScript/TypeScript, working with technologies such as NodeJs, NextJs, React, and Angular and Python.
+I'm Abdul Ojulari, a seasoned full-stack developer with 10 years of cognitive experience in software development, system design and software architecture. I hold a master's degree in Computer Science. My expertise includes PHP and its prominent frameworks like Symfony and Laravel. I'm also proficient in JavaScript/TypeScript, working with technologies such as NodeJs, NextJs, React, and Angular and VueJS (in view).
 
 ## Tools
 
