@@ -28,11 +28,13 @@ I'm Abdul Ojulari, a seasoned full-stack developer with over 20 years of cogniti
 
 
 #### Databases 
-![PostgreSQL](https://progressbar.info/large/PostgreSQL/89)
-![MySQL](https://progressbar.info/large/MySQL/86)
-![MongoDB](https://progressbar.info/large/MongoDB/70)
-![Firebase](https://progressbar.info/large/Firebase/60)
-![Redis](https://progressbar.info/large/Redis/80)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89%25-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-86%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-60%25-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-80%25-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 
 #### Other Technologies 
 
