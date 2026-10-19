@@ -19,11 +19,12 @@ I'm Abdul Ojulari, a seasoned full-stack developer with over 20 years of cogniti
 ![Laravel](https://img.shields.io/badge/Laravel-75%25-orange)
 ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow)
 ![React](https://img.shields.io/badge/React-80%25-blueviolet)
+![Vue](https://img.shields.io/badge/Vue-80%25-green)
 ![Angular](https://img.shields.io/badge/Angular-75%25-red)
 ![NodeJs](https://img.shields.io/badge/NodeJs-80%25-brightgreen)
 ![NextJs](https://img.shields.io/badge/NextJs-75%25-lightgrey)
 ![TypeScript](https://img.shields.io/badge/TypeScript-75%25-lightgreen)
-![Python](https://progress-bar.dev/70/?title=Python)
+![Python](https://img.shields.io/badge/Python-75%25-lightgreen)
 
 
 #### Databases 
