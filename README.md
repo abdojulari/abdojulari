@@ -28,18 +28,21 @@ I'm Abdul Ojulari, a seasoned full-stack developer with over 20 years of cogniti
 
 
 #### Databases 
-![PostgreSQL](https://progress-bar.dev/89/?title=PostgreSQL)
-![MySQL](https://progress-bar.dev/86/?title=MySQL)
-![MongoDB](https://progress-bar.dev/70/?title=MongoDB)
-![Firebase](https://progress-bar.dev/60/?title=Firebase)
-![Redis](https://progress-bar.dev/80/?title=Redis)
+![PostgreSQL](https://progressbar.info/large/PostgreSQL/89)
+![MySQL](https://progressbar.info/large/MySQL/86)
+![MongoDB](https://progressbar.info/large/MongoDB/70)
+![Firebase](https://progressbar.info/large/Firebase/60)
+![Redis](https://progressbar.info/large/Redis/80)
 
 #### Other Technologies 
-![MakeFile](https://progress-bar.dev/80/?title=MakeFile)
-![CI/CD](https://progress-bar.dev/80/?title=CI/CD)
-![GIT](https://progress-bar.dev/87/?title=GIT)
-![Redux](https://progress-bar.dev/90/?title=Redux)
-![NGRX](https://progress-bar.dev/90/?title=NGRX)
+
+![Makefile](https://img.shields.io/badge/Makefile-80%25-427819?style=for-the-badge&logo=gnu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-80%25-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-87%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-90%25-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-90%25-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-85%25-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
 
 
 
